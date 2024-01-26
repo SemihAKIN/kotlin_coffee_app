@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    //My App Colors
+
+    <color name="whiteBrown">#FFBF7839</color>
+    <color name="cream">#FFF2CEAE</color>
+    <color name="darkBrown">#FF733B1A</color>
+    <color name="creamBrown">#FFA6654E</color>
+    <color name="burgundy">#FF8C0404</color>
+</resources>
